@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akbari-Prayag/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akbari-Prayag/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Akbari-Prayag/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Akbari-Prayag/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1140-stone-game-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Akbari-Prayag/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
