@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Akbari-Prayag/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Akbari-Prayag/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1140-stone-game-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akbari-Prayag/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Akbari-Prayag/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Akbari-Prayag/Leetcode/tree/master/0115-distinct-subsequences) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akbari-Prayag/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akbari-Prayag/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Backtracking
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akbari-Prayag/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akbari-Prayag/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Greedy
+|  |
+| ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akbari-Prayag/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 <!---LeetCode Topics End-->
