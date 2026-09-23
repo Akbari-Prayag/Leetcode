@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Akbari-Prayag/Leetcode/tree/master/0079-word-search) |
+| [0283-move-zeroes](https://github.com/Akbari-Prayag/Leetcode/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Akbari-Prayag/Leetcode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Akbari-Prayag/Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1140-stone-game-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Akbari-Prayag/Leetcode/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akbari-Prayag/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
