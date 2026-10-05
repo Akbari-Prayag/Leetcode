@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akbari-Prayag/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Akbari-Prayag/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/Akbari-Prayag/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akbari-Prayag/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Akbari-Prayag/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Akbari-Prayag/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akbari-Prayag/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akbari-Prayag/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
