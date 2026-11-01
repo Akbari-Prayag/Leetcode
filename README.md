@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Akbari-Prayag/Leetcode/tree/master/0079-word-search) |
 | [0283-move-zeroes](https://github.com/Akbari-Prayag/Leetcode/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Akbari-Prayag/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Akbari-Prayag/Leetcode/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Akbari-Prayag/Leetcode/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1140-stone-game-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Akbari-Prayag/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Akbari-Prayag/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Akbari-Prayag/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
