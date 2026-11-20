@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Akbari-Prayag/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akbari-Prayag/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Akbari-Prayag/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akbari-Prayag/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Akbari-Prayag/Leetcode/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akbari-Prayag/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akbari-Prayag/Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akbari-Prayag/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Akbari-Prayag/Leetcode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Akbari-Prayag/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3524-find-x-value-of-array-i](https://github.com/Akbari-Prayag/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Akbari-Prayag/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/3693-climbing-stairs-ii) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Akbari-Prayag/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Akbari-Prayag/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akbari-Prayag/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Akbari-Prayag/Leetcode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3273-minimum-amount-of-damage-dealt-to-bob](https://github.com/Akbari-Prayag/Leetcode/tree/master/3273-minimum-amount-of-damage-dealt-to-bob) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akbari-Prayag/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Akbari-Prayag/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
