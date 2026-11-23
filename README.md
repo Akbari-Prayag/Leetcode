@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Akbari-Prayag/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Akbari-Prayag/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akbari-Prayag/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akbari-Prayag/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Akbari-Prayag/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Akbari-Prayag/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akbari-Prayag/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Akbari-Prayag/Leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akbari-Prayag/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Akbari-Prayag/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2409-count-days-spent-together](https://github.com/Akbari-Prayag/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/Akbari-Prayag/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Akbari-Prayag/Leetcode/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akbari-Prayag/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Akbari-Prayag/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## String
 |  |
@@ -361,4 +364,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Akbari-Prayag/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akbari-Prayag/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Akbari-Prayag/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
